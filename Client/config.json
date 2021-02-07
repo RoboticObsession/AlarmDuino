@@ -1,5 +1,5 @@
 {
  "serialport":"/dev/cu.usbserial-0001",
- "api":"https://Arduino-Alarm-API.ricardogonzlez1.repl.co",
+ "api":"https://api.example.com",
  "alarmid":"01"
 }
